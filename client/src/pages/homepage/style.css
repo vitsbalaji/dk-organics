@@ -1,0 +1,37 @@
+.clip-style{
+    max-width: 700px;
+}
+.clip-img{
+    background-image: url('6.jpg');
+}
+.clip-img1{
+    background-image: url('./4.jfif');
+}
+.mission-img{
+
+        background-image: url('../../dko-photo/nature.jpg');
+    
+}
+.mission-img1{
+    background-image: url('../../dko-photo/medicin.jpg');
+}
+.mission-img2{
+    background-image: url('../../dko-photo/n1.jpg');
+}
+.mission-img3 {
+    background-image: url('../../dko-photo/family.jpg');
+}
+.mission-img4{
+    background-image: url('../../dko-photo/jocking.jpg');
+}
+.mission-img5{
+    background-image: url('../../dko-photo/yoga.jpg');
+}
+
+.slider-img{
+    background-image: url('../../img/6.jpg');
+}
+.slider-img1{
+    background-image: url('../../img/4.jfif');
+}
+
