@@ -10,7 +10,7 @@ export default function Post({_id, title, summary, cover, content, createdAt, au
 			<div className="container" style={{width:"400 px"}}>
 							<div className="card center mb-5 mt-0">
 								<div className="center mt-4">
-								<img src={'http://localhost:4000/' + cover} className="card-img-top " style={{height:'280px', width:'120px'}} alt="..."/>
+								<img src={'http://191.101.80.173/api/' + cover} className="card-img-top " style={{height:'280px', width:'120px'}} alt="..."/>
 								</div>
 								<div className="card-body" key={_id}>
 									<Link to={`/post/${_id}/`}>

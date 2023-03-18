@@ -10,7 +10,7 @@ export default function PostPage() {
     const { userInfo } = useContext(UserContext);
     const { id } = useParams();
     useEffect(() => {
-        fetch(`http://localhost:4000/post/${id}`)
+        fetch(`http://191.101.80.173/api/post/${id}`)
             .then(response => {
                 response.json().then(postInfo => {
                     setPostInfo(postInfo);
@@ -49,7 +49,7 @@ export default function PostPage() {
 
     <div className="row">
     <div className="col-lg-4">
-        <img src={`http://localhost:4000/${postInfo.cover}`} alt="garlic" />
+        <img src={`http://191.101.80.173/api/${postInfo.cover}`} alt="garlic" />
     </div>
     <div className="col-lg-8">
         <blockquote className="quote"><p>{postInfo.content}

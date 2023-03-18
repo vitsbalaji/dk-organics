@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.56133f79.css",
+    "main.js": "./static/js/main.1f8b65ab.js",
+    "static/js/498.0bce707b.chunk.js": "./static/js/498.0bce707b.chunk.js",
+    "static/js/703.2da2422d.chunk.js": "./static/js/703.2da2422d.chunk.js",
+    "static/js/142.02527756.chunk.js": "./static/js/142.02527756.chunk.js",
+    "static/media/6.jpg": "./static/media/6.f8dd1cc0e941eb4c58fd.jpg",
+    "static/media/n1.jpg": "./static/media/n1.b34d995aad4b5a72a524.jpg",
+    "static/media/medicin.jpg": "./static/media/medicin.146a0a06cc25c93d5c74.jpg",
+    "static/media/family.jpg": "./static/media/family.b117e8a3077cfa49b67a.jpg",
+    "static/media/nature.jpg": "./static/media/nature.a5f2939b6e542a6f8be9.jpg",
+    "static/media/yoga.jpg": "./static/media/yoga.e1ca0508ebadbc086689.jpg",
+    "static/media/jocking.jpg": "./static/media/jocking.9dbe7b666114ee7e7956.jpg",
+    "static/media/font-icons.woff2": "./static/media/font-icons.bb0aa21537f57f3b891b.woff2",
+    "static/media/lined-icons.woff2": "./static/media/lined-icons.3ec85ec15fb89b36eee4.woff2",
+    "static/media/Simple-Line-Icons.woff2": "./static/media/Simple-Line-Icons.61e75e6acb240d7fb9f0.woff2",
+    "static/media/4.jfif": "./static/media/4.b689a2311f5ef42f64e6.jfif",
+    "index.html": "./index.html",
+    "main.56133f79.css.map": "./static/css/main.56133f79.css.map",
+    "main.1f8b65ab.js.map": "./static/js/main.1f8b65ab.js.map",
+    "498.0bce707b.chunk.js.map": "./static/js/498.0bce707b.chunk.js.map",
+    "703.2da2422d.chunk.js.map": "./static/js/703.2da2422d.chunk.js.map",
+    "142.02527756.chunk.js.map": "./static/js/142.02527756.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56133f79.css",
+    "static/js/main.1f8b65ab.js"
+  ]
+}
